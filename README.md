@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student at the IUT of Metz, France, passionate about software development, electronics, and sim racing technology.<br><br>Developing a telemetry and overlay system for sim racing (iRacing, WEC, F1) and several academic IT projects (network, database, and web apps).<br><br>Open-source projects related to motorsport data, embedded systems, or desktop apps (C#, Python, or C).<br><br>Optimizing real-time data visualization and integrating OpenF1 / iRacing APIs efficiently.<br><br>Learning C# (WPF) on my own for desktop development, mobile app design, and network automation with Cisco systems.<br><br>Sim racing setups, software architecture, system administration, or project organization.<br><br>I’m building my own “TelemetryHub” device to collect real car telemetry — because why limit data analysis to virtual racing?
+Computer Science student at the IUT of Metz, France, passionate about software development, electronics, and sim racing technology.
 
 
 ## 🌐 Socials:
